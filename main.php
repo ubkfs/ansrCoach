@@ -106,13 +106,13 @@
 
 <body>
 
-    <?php require "/ansrCoach/nav.php"  ?>
+    <?php require "/ubkfs/ansrCoach/nav.php"  ?>
     <br><br><br><br><br>
     <div id="carouselExampleCaptions" class="carousel slide carousel-fade" data-bs-ride="carousel">
 
         <div class="carousel-inner">
             <div class="carousel-item active">
-                <img src="/ansrCoach/2.jpg" id="iimg" class="d-block w-100" width="100" height="300" alt="...">
+                <img src="/ubkfs/ansrCoach/2.jpg" id="iimg" class="d-block w-100" width="100" height="300" alt="...">
                 <div class="carousel-caption d-none d-md-block">
 
                 </div>
@@ -148,20 +148,20 @@
                 <li style="padding: 4px 4px;">
                     <a href="https://www.facebook.com/new/" title="Facebook" target="_blank" xtm-t="E"
                         xtm-n="Social-footer::">
-                        <img src="/ansrCoach/fb.png" style="width: 30px;height: 30px;" alt=""></a>
+                        <img src="/ubkfs/ansrCoach/fb.png" style="width: 30px;height: 30px;" alt=""></a>
                 </li>
                 <li>
                     <a href="https://wa.me/c/91" title="Whatsapp" target="_blank" xtm-t="E"
                         xtm-n="Social-footer::">
-                        <img src="/ansrCoach/whatsapp.png" class="my-1" style="width: 30px;height: 30px;"
+                        <img src="/ubkfs/ansrCoach/whatsapp.png" class="my-1" style="width: 30px;height: 30px;"
                             alt=""></a>
                 </li>
             </ul>
-            <p class="d-flex justify-content-center bg-light mb-2"><a href="/ansrCoach/tnc.html">Terms and Condition</a>
+            <p class="d-flex justify-content-center bg-light mb-2"><a href="/ubkfs/ansrCoach/tnc.html">Terms and Condition</a>
             </p>
-            <p class="d-flex justify-content-center bg-light my-2"><a href="/ansrCoach/privacy.html">Privacy Policy</a>
+            <p class="d-flex justify-content-center bg-light my-2"><a href="/ubkfs/ansrCoach/privacy.html">Privacy Policy</a>
             </p>
-            <p class="d-flex justify-content-center bg-light my-2"><a href="/ansrCoach/refund.html">Refund Policy</a></p>
+            <p class="d-flex justify-content-center bg-light my-2"><a href="/ubkfs/ansrCoach/refund.html">Refund Policy</a></p>
             <p class="d-flex justify-content-center text-danger bg-dark my-2 foot">Copyright @AnsrCoachsocietyupliftment2021 </p>
         </footer>
     
